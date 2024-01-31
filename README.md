@@ -11,9 +11,7 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 - Best practices in software architecture and design.
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="100" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Profile Image">
     <div>
-        <p>I'm Denzil D'Souza, a passionate software developer and data enthusiast.</p>
         <p>Here are some technologies I work with:</p>
         <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
