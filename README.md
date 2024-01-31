@@ -8,7 +8,6 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
         <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
         <img alt="R" src="https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white" />
         <img alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" />
-        <br />
         <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
         <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white" />
     </div>
