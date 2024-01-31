@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Denzil D'Souza, a passionate software developer and data enthusiast.
+### I am Denzil D'Souza, a Data-Driven Professional Focused on Transformation Projects
+With a background in finance and supply chain logistics, I bring proven expertise in leading transformative initiatives and applying data-driven methodologies for operational efficiency. 
+
 
 ### **Guiding Values 🌟**
 **Innovative** 🚀 **Collaboration** 🤝 **Resilient** 🌱 **Integrity** 🌐 **Continuous Learning** 📚
