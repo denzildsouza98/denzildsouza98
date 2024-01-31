@@ -1,6 +1,11 @@
 # Hi there 👋
-<img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="250" height="300"/>
-I'm Denzil D'Souza, a passionate software developer and data enthusiast.
+# Hi there 👋
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="100" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Profile Image">
+    <p>I'm Denzil D'Souza, a passionate software developer and data enthusiast.</p>
+</div>
+
 
 🔭 **Currently Working On:**
 - Enhancing my skills in Java, Python, and SQL through various coding projects.
