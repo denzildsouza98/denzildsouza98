@@ -35,7 +35,7 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 💬 **Ask Me About:**
 
-👨‍💻 **Experience:**
+### 👨‍💻 **Experience:**
 
 #### My experience working as a Software Engineer at Matson
 
@@ -43,7 +43,7 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
   
 - **Testing, Testing:** Of course, after developing and migrating those reports, there was a fair bit of testing to do. Unit testing and UAT testing for all 40 reports to be exact. Making sure everything stayed ship-shape!
 
-### My journey as a Production Support Analyst at BNP Paribas
+#### My journey as a Production Support Analyst at BNP Paribas
 
 - **Cutting Manual Effort:** Ever wonder how to save 50 hours a month? Well, I developed and set up Monitoring and Alerting systems in Kibana and Graphana for a .NET application. It was a game-changer, reducing manual efforts and providing slick visual dashboards for the business.
 
@@ -51,19 +51,19 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 - **Querying and Automating:** When it came to querying large datasets in MYSQL, Sybase, and Cassandra, I was the go-to person. Automated Intraday file integration tasks using Selenium and Autosys? Yeah, that was to save a solid 30 hours a month!
 
-### My stint as a Full Stack Java Developer at TechSkills IT Consultants
+#### My stint as a Full Stack Java Developer at TechSkills IT Consultants
 
 - **Springing into Action:** Developed complex APIs via Spring MVC and Spring Boot to query different databases and generate reports. If you're into MYSQL databases, I've got some stories for you.
 
 - **Queried like a Pro:** Queried MYSQL databases like a pro for client reports and created procedures for BAU activities. Because sometimes, you've got to dive into the data!
 
-🚀 **Projects:**
+### 🚀 **Projects:**
 
-### My exploration in Covid Vaccination Analysis using Tableau
+#### My exploration in Covid Vaccination Analysis using Tableau
 
 - **Dashboard Dive:** Created Tableau dashboards to dive deep into historical trends in COVID vaccination. It was all about using advanced data visualization techniques to examine patterns based on GDP and population density.
 
-### The Adventure of the Automatic Timetable Generator using Genetic Algorithm
+#### The Adventure of the Automatic Timetable Generator using Genetic Algorithm
 
 - **Optimizing Timetables:** Built a cool open-source web app using React JS and Flask. How? Well, Genetic Algorithm was the secret sauce. It generated timetables considering hard and soft constraints, achieving an impressive 97% fitness rate.
 
