@@ -10,6 +10,21 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 - Advancements in cloud computing, particularly AWS services.
 - Best practices in software architecture and design.
 
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="100" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Profile Image">
+    <div>
+        <p>I'm Denzil D'Souza, a passionate software developer and data enthusiast.</p>
+        <p>Here are some technologies I work with:</p>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
+        <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
+        <img alt="R" src="https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white" />
+        <img alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" />
+        <br />
+        <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    </div>
+</div>
+
 👯 **Looking to Collaborate On:**
 - Open source projects that involve data processing, analysis, and visualization.
 - Software development initiatives with a focus on innovation and impact.
