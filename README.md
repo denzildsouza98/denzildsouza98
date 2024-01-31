@@ -2,7 +2,7 @@
 
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
-### Guiding Values 🌟
+### **Guiding Values 🌟**
 **Innovative** 🚀 **Collaboration** 🤝 **Resilient** 🌱 **Integrity** 🌐 **Continuous Learning** 📚
 
 ### 🔭 **Currently Working On:**
@@ -12,22 +12,24 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 -   <div style="display: flex; align-items: center;">
     <div>
         <p>Here are some technologies I work with:</p>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
-        <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" />
-        <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
-        <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
+        <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
     </div>
 </div>
 
-🌱 **Currently Learning:**
+
+### 🌱 **Currently Learning:**
 - Advancements in cloud computing, particularly AWS services.
 - Best practices in software architecture and design.
+- Learning Data Engineering software and practices on AWS.
+- Software principles to optimize file management and enhance efficiency.
 
-
-👯 **Looking to Collaborate On:**
+### 👯 **Looking to Collaborate On:**
 - Open source projects that involve data processing, analysis, and visualization.
 - Software development initiatives with a focus on innovation and impact.
 
