@@ -1,7 +1,12 @@
 # Hi there 👋
 
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
-<div style="display: flex; align-items: center;">
+
+🔭 **Currently Working On:**
+- Enhancing my skills in Java, Python, and SQL through various coding projects.
+- Exploring the realms of data science and machine learning.
+- Tech Stack
+- <div style="display: flex; align-items: center;">
     <div>
         <p>Here are some technologies I work with:</p>
         <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
@@ -12,11 +17,6 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
         <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white" />
     </div>
 </div>
-
-
-🔭 **Currently Working On:**
-- Enhancing my skills in Java, Python, and SQL through various coding projects.
-- Exploring the realms of data science and machine learning.
 
 🌱 **Currently Learning:**
 - Advancements in cloud computing, particularly AWS services.
@@ -31,7 +31,7 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 👨‍💻 **Experience:**
 
-### My experience working as a Software Engineer at Matson
+#### My experience working as a Software Engineer at Matson
 
 - **What I did:** As a Software Engineer at Matson, I dived into the world of requirement analysis for 20 use cases. It was all about making sure they seamlessly integrated into our business application. Ever migrated 40 business reports from SSRS to Jasper Software? Well, I did, and it was part of a pretty cool transformation project.
   
