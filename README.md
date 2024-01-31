@@ -1,4 +1,5 @@
 # Hi there 👋
+![Profile Image](https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg)
 
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
