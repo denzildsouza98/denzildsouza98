@@ -1,15 +1,6 @@
 # Hi there 👋
 
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
-
-🔭 **Currently Working On:**
-- Enhancing my skills in Java, Python, and SQL through various coding projects.
-- Exploring the realms of data science and machine learning.
-
-🌱 **Currently Learning:**
-- Advancements in cloud computing, particularly AWS services.
-- Best practices in software architecture and design.
-
 <div style="display: flex; align-items: center;">
     <div>
         <p>Here are some technologies I work with:</p>
@@ -22,6 +13,15 @@ I'm Denzil D'Souza, a passionate software developer and data enthusiast.
         <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white" />
     </div>
 </div>
+
+🔭 **Currently Working On:**
+- Enhancing my skills in Java, Python, and SQL through various coding projects.
+- Exploring the realms of data science and machine learning.
+
+🌱 **Currently Learning:**
+- Advancements in cloud computing, particularly AWS services.
+- Best practices in software architecture and design.
+
 
 👯 **Looking to Collaborate On:**
 - Open source projects that involve data processing, analysis, and visualization.
