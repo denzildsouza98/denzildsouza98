@@ -2,19 +2,23 @@
 
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
-🔭 **Currently Working On:**
-- Enhancing my skills in Java, Python, and SQL through various coding projects.
-- Exploring the realms of data science and machine learning.
-- Tech Stack
-- <div style="display: flex; align-items: center;">
+### Guiding Values 🌟
+**Innovative** 🚀 **Collaboration** 🤝 **Resilient** 🌱 **Integrity** 🌐 **Continuous Learning** 📚
+
+### 🔭 **Currently Working On:**
+- Collaborating on my capstone project with Amazon to build a Digital Twin for handling AutoCAD files.
+- Exploring optimization problems and predictive analytics in the realms of data science and machine learning.
+- Building my skills in Tableau by taking classes concentrating on visualization design.
+-   <div style="display: flex; align-items: center;">
     <div>
         <p>Here are some technologies I work with:</p>
         <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
-        <img alt="R" src="https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white" />
-        <img alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" />
-        <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" />
+        <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
     </div>
 </div>
 
