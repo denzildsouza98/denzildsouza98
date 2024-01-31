@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="200" height="300"/>
+<img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="250" height="300"/>
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 🔭 **Currently Working On:**
