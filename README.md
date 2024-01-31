@@ -1,13 +1,6 @@
 # Hi there 👋
 
-<div align="center">
-    <img src="https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg" width="100" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Profile Image">
-    <div>
-        <p>I'm Denzil D'Souza, a passionate software developer and data enthusiast.</p>
-    </div>
-</div>
-
-
+I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 🔭 **Currently Working On:**
 - Enhancing my skills in Java, Python, and SQL through various coding projects.
