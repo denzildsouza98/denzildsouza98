@@ -1,6 +1,5 @@
 # Hi there 👋
-![Profile Image](https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg)
-
+<img src="[IMG_LINK](https://github.com/denzildsouza98/denzildsouza98/raw/main/Denzil_picture.jpeg)" width="100" height="100"/>
 I'm Denzil D'Souza, a passionate software developer and data enthusiast.
 
 🔭 **Currently Working On:**
