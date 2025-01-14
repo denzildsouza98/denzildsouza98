@@ -50,6 +50,10 @@ At Amazon, I tackled the challenge of optimizing data workflows for last-mile de
 #### **Creating Operational Dashboards (Matson)**  
 I developed **Tableau dashboards** to track warehousing and transportation metrics, uncovering bottlenecks and driving a 15% improvement in operational efficiency. Additionally, I leveraged **PySpark** to handle large-scale data transformations, enabling faster analytics and better insights.  
 
+#### **Optimizing Monitoring and Automation (BNP Paribas)**  
+AAt BNP Paribas, I transformed operational workflows into streamlined, data-driven systems. I developed dynamic dashboards with **Kibana** and **Grafana**, cutting troubleshooting time by 25% and giving teams real-time visibility into system performance. By automating over 2,000 ETL jobs using **Autosys** and Oracle Data Integrator, I eliminated bottlenecks and ensured smoother data processing.
+Working with **PySpark** and **Cassandra**, I harnessed big data to generate actionable insights for asset management, empowering decision-makers with real-time analytics. Additionally, I optimized database performance by creating efficient stored procedures in **SSMS**, enhancing query speed and data accuracy. Together, these efforts drove efficiency, reliability, and impactful decision-making across critical processes.  
+
 ---
 
 ### **Technologies I Work With:**
