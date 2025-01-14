@@ -9,6 +9,7 @@ I'm **Denzil D'Souza**, a passionate **Data Analyst** with a knack for transform
 - **Collaboration**: Working with diverse teams to solve complex challenges.  
 - **Impact**: Turning raw data into decisions that matter.  
 - **Continuous Learning**: Evolving with the data landscape to stay at the cutting edge.  
+- **Integrity**: Ensuring honesty and transparency in every step of the data journey.  
 
 ---
 
