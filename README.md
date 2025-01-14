@@ -54,7 +54,6 @@ At Matson, I became a dashboard detective. Armed with **Tableau**, I uncovered b
 Imagine a symphony of operational workflows each instrument out of tune. That’s where I stepped in at BNP Paribas. With **Kibana** and **Grafana**, I gave teams real-time visibility into system performance, cutting troubleshooting time by 25%. I automated over 2,000 ETL jobs using **Autosys** and Oracle Data Integrator, eliminating bottlenecks like a virtuoso conductor. Using **PySpark** and **Cassandra**, I crafted big data insights that hit the right notes for asset management. For the grand finale, I wrote efficient stored procedures in **SSMS**, optimizing database performance and ensuring decision-makers always had the perfect data crescendo.
 
 ---
-
 ### **Technologies I Work With:**
 <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
@@ -64,7 +63,11 @@ Imagine a symphony of operational workflows each instrument out of tune. That’
     <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-red?style=flat-square&logo=databricks&logoColor=white" />
+    <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white" />
+    <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apache-spark&logoColor=white" />
 </div>
+
 
 ---
 
