@@ -54,6 +54,20 @@ At Matson, I became a dashboard detective. Armed with **Tableau**, I uncovered b
 Imagine a symphony of operational workflows each instrument out of tune. That’s where I stepped in at BNP Paribas. With **Kibana** and **Grafana**, I gave teams real-time visibility into system performance, cutting troubleshooting time by 25%. I automated over 2,000 ETL jobs using **Autosys** and Oracle Data Integrator, eliminating bottlenecks like a virtuoso conductor. Using **PySpark** and **Cassandra**, I crafted big data insights that hit the right notes for asset management. For the grand finale, I wrote efficient stored procedures in **SSMS**, optimizing database performance and ensuring decision-makers always had the perfect data crescendo.
 
 ---
+
+### **Skills I Bring to the Table**  
+<div>
+    <img alt="Data Analysis" src="https://img.shields.io/badge/-Data%20Analysis-blue?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Data Visualization" src="https://img.shields.io/badge/-Data%20Visualization-green?style=flat-square&logo=tableau&logoColor=white" />
+    <img alt="Big Data" src="https://img.shields.io/badge/-Big%20Data-orange?style=flat-square&logo=apache-spark&logoColor=white" />
+    <img alt="ETL Development" src="https://img.shields.io/badge/-ETL%20Development-yellow?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-lightblue?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-red?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="Automation" src="https://img.shields.io/badge/-Automation-lightgrey?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-purple?style=flat-square&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
 ### **Technologies I Work With:**
 <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
