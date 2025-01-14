@@ -1,87 +1,71 @@
-# Hi there 👋
+# Hi there 👋  
 
-I'm **Denzil D'Souza**, a passionate **Data Analyst** and **Data Engineer** with a knack for transforming raw data into actionable insights. I thrive on uncovering patterns, solving problems, and driving impactful decision-making through data.
-
----
-
-### **Guiding Values 🌟**
-- **Innovation** 🚀  
-- **Collaboration** 🤝  
-- **Resilience** 🌱  
-- **Integrity** 🌐  
-- **Continuous Learning** 📚  
+I'm **Denzil D'Souza**, a passionate **Data Analyst** with a knack for transforming raw data into actionable insights. I thrive on uncovering patterns, solving problems, and delivering impactful solutions that drive decision-making. From creating dashboards that tell compelling stories to optimizing data workflows, I bring a combination of creativity, precision, and technical expertise to every project.  
 
 ---
 
-### 🔭 **Currently Working On:**
-- **Data Analysis at the University of Washington**: 
-  - Conducting data wrangling and statistical analysis on survey datasets to support neurodivergence inclusivity research.  
-  - Developing interactive Tableau dashboards to present research findings.  
-  - Using linear regression in Python for predictive analytics, analyzing recruitment process inclusivity trends.  
+### **Guiding Values 🌟**  
+- **Curiosity**: Asking the right questions to uncover hidden insights.  
+- **Collaboration**: Working with diverse teams to solve complex challenges.  
+- **Impact**: Turning raw data into decisions that matter.  
+- **Continuous Learning**: Evolving with the data landscape to stay at the cutting edge.  
 
 ---
 
-### 🌱 **Currently Learning:**
-- Advanced **AWS services** for cloud computing.  
-- Best practices in **data engineering** and pipeline automation.  
-- **Machine learning techniques** for advanced analytics.  
+### 🔭 **Currently Working On:**  
+
+At the **University of Washington**, I work as a **Data Analyst**, diving into research data to explore how inclusivity practices can be improved for neurodivergent individuals:  
+
+- **Wrangling messy datasets**: Cleaning survey responses and normalizing data using Python, ensuring accuracy for downstream analyses.  
+- **Creating stories with dashboards**: Developing interactive **Tableau dashboards** that showcase patterns in recruitment practices, helping stakeholders make informed decisions.  
+- **Applying statistical rigor**: Using methods like t-tests and chi-squared tests to validate hypotheses and uncover significant differences between populations.  
+- **Predicting trends**: Building **regression models** to identify factors that enhance inclusivity in the workplace.  
+
+What I love most about this role is how data can shine a light on areas for improvement and help create a more inclusive world.  
 
 ---
 
-### 👯 **Looking to Collaborate On:**
-- Open-source projects involving **data analysis**, **visualization**, and **pipeline automation**.  
-- Initiatives focused on leveraging **data engineering** for impactful decision-making.  
+### 🌱 **Currently Learning:**  
+- **Big Data Tools**: Exploring Spark and Hadoop to scale data transformations.  
+- **Advanced Visualization**: Creating storytelling dashboards with advanced Tableau and Power BI features.  
+- **AWS Specialization**: Mastering services like Glue, Redshift, and Lambda to improve data engineering workflows.  
 
 ---
 
-### 👨‍💻 **Experience:**
-
-#### **Data Analyst | University of Washington**  
-- Conducted statistical analysis, such as t-tests and chi-squared tests, on survey data to support research on inclusivity.  
-- Built interactive Tableau dashboards for impactful research presentations.  
-- Applied predictive analytics using Python to analyze recruitment processes.  
-
-#### **Data Engineer | Amazon (Capstone Project)**  
-- Designed and developed a data warehouse using **AWS RDS** and **Kimball’s methodology**.  
-- Automated ETL pipelines with **AWS Glue**, processing data from **S3** for OLAP databases.  
-- Enhanced operational efficiency by automating file archiving and management with **AWS Lambda**.  
-
-#### **Data Analyst | Matson**  
-- Migrated 40+ business reports to iReport, reducing costs by 20%.  
-- Developed Tableau dashboards for financial metrics, improving operational efficiency by 15%.  
-- Leveraged **PySpark** for large-scale data transformation.  
+### 👯 **Looking to Collaborate On:**  
+- Projects that involve **data storytelling** and creating actionable dashboards.  
+- Initiatives focused on **predictive analytics** or solving real-world problems with data.  
+- Open-source efforts to improve **data cleaning pipelines** or **visualization libraries**.  
 
 ---
 
-### 🚀 **Projects:**
+### 🚀 **Stories from My Career:**  
 
-#### **Strategic Retail Performance Analysis**  
-- Designed a Snowflake data warehouse to process CSV data into a dimensional model.  
-- Analyzed store sales trends and developed Tableau dashboards for improved forecasting and decision-making.  
+#### **Shaping Inclusivity Through Data (University of Washington)**  
+Working with survey data, I helped a research team uncover gaps in the hiring process for neurodivergent individuals. Using Python, I performed data wrangling to clean and standardize the data, ensuring it was reliable. I then developed **Tableau dashboards** to visually communicate key trends, enabling the team to focus on the most impactful areas for improvement. One finding revealed a significant mismatch in perceived support during the interview process, which has since informed actionable recommendations.  
 
-#### **Predictive Maintenance for Manufacturing Equipment**  
-- Built a Random Forest model using Python to predict equipment failure trends, enhancing scheduling and reducing downtime.  
-- Integrated results into Tableau dashboards for real-time monitoring.  
+#### **Improving Delivery Operations at Scale (Amazon Capstone)**  
+At Amazon, I tackled the challenge of optimizing data workflows for last-mile delivery. By designing an **AWS RDS-based data warehouse** and automating **ETL pipelines with Glue**, I ensured data was seamlessly integrated from various sources. I also utilized **AWS Lambda** to automate file archiving and management, reducing operational overhead and improving efficiency.  
 
-#### **COVID-19 Vaccination Analysis with Tableau**  
-- Created dashboards analyzing historical trends in vaccination patterns based on GDP and population density.  
+#### **Creating Operational Dashboards (Matson)**  
+I developed **Tableau dashboards** to track warehousing and transportation metrics, uncovering bottlenecks and driving a 15% improvement in operational efficiency. Additionally, I leveraged **PySpark** to handle large-scale data transformations, enabling faster analytics and better insights.  
 
 ---
 
 ### **Technologies I Work With:**
 <div>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
-    <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" />
-    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
 </div>
 
 ---
 
-### 📫 **How to Reach Me:**
+### 📫 **How to Reach Me:**  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/denzil-m-dsouza/).  
 - Email me at **denzildsouza555@gmail.com**.  
 
