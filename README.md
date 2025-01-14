@@ -59,10 +59,11 @@ Imagine a symphony of operational workflows each instrument out of tune. That’
 <div>
     <img alt="Data Analysis" src="https://img.shields.io/badge/-Data%20Analysis-blue?style=flat-square&logo=python&logoColor=white" />
     <img alt="Data Visualization" src="https://img.shields.io/badge/-Data%20Visualization-green?style=flat-square&logo=tableau&logoColor=white" />
+    <img alt="Data Modeling" src="https://img.shields.io/badge/-Data%20Modeling-darkblue?style=flat-square&logo=microsoft-access&logoColor=white" />
     <img alt="Big Data" src="https://img.shields.io/badge/-Big%20Data-orange?style=flat-square&logo=apache-spark&logoColor=white" />
+    <img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-red?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="ETL Development" src="https://img.shields.io/badge/-ETL%20Development-yellow?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-lightblue?style=flat-square&logo=scikit-learn&logoColor=white" />
-    <img alt="Database Management" src="https://img.shields.io/badge/-Database%20Management-red?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="Automation" src="https://img.shields.io/badge/-Automation-lightgrey?style=flat-square&logo=python&logoColor=white" />
     <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-purple?style=flat-square&logo=amazon-aws&logoColor=white" />
 </div>
