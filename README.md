@@ -39,20 +39,19 @@ What I love most about this role is how data can shine a light on areas for impr
 
 ---
 
-### 🚀 **Stories from My Career:**  
+# 🚀 Tales from My Career Adventures
 
-#### **Shaping Inclusivity Through Data (University of Washington)**  
-Working with survey data, I helped a research team uncover gaps in the hiring process for neurodivergent individuals. Using Python, I performed data wrangling to clean and standardize the data, ensuring it was reliable. I then developed **Tableau dashboards** to visually communicate key trends, enabling the team to focus on the most impactful areas for improvement. One finding revealed a significant mismatch in perceived support during the interview process, which has since informed actionable recommendations.  
+## Turning Data into a Neurodivergent-Friendly Ally (University of Washington)  
+Picture this: I’m staring at rows of messy survey data, armed with nothing but Python and determination. My mission? Help a research team uncover why neurodivergent candidates often feel like they’re auditioning for a role in *Mission Impossible* during interviews. After hours of wrangling unruly data and coaxing it into shape, I whipped up **Tableau dashboards** that told a clear story. One surprise plot twist? There was a massive gap in perceived support during interviews! Armed with these insights, the team rolled out actionable recommendations that didn’t involve spy gadgets.  
 
-#### **Improving Delivery Operations at Scale (Amazon Capstone)**  
-At Amazon, I tackled the challenge of optimizing data workflows for last-mile delivery. By designing an **AWS RDS-based data warehouse** and automating **ETL pipelines with Glue**, I ensured data was seamlessly integrated from various sources. I also utilized **AWS Lambda** to automate file archiving and management, reducing operational overhead and improving efficiency.  
+## Last-Mile Delivery: Data’s Epic Journey (Amazon Capstone)  
+Amazon delivery isn’t just about getting a package to your door; it’s a saga of countless data points racing against time. I was the data whisperer who optimized workflows by building an **AWS RDS-based data warehouse** and automating **ETL pipelines with Glue**. For added flair, I taught **AWS Lambda** to file and archive like a pro librarian, cutting operational chaos. The result? A system so efficient it felt like delivery trucks were running on jet fuel.  
 
-#### **Creating Operational Dashboards (Matson)**  
-I developed **Tableau dashboards** to track warehousing and transportation metrics, uncovering bottlenecks and driving a 15% improvement in operational efficiency. Additionally, I leveraged **PySpark** to handle large-scale data transformations, enabling faster analytics and better insights.  
+## Dashboard Detective: The Case of the Missing Efficiency (Matson)  
+At Matson, I became a dashboard detective. Armed with **Tableau**, I uncovered bottlenecks in warehousing and transportation operations like a modern Sherlock Holmes. The result? A 15% improvement in efficiency! When the data got too big for spreadsheets, I turned to **PySpark**, wrangling it into insights faster than you can say “analytics.” It’s safe to say my dashboards were the Watson to my Holmes.  
 
-#### **Optimizing Monitoring and Automation (BNP Paribas)**  
-At BNP Paribas, I transformed operational workflows into streamlined, data-driven systems. I developed dynamic dashboards with **Kibana** and **Grafana**, cutting troubleshooting time by 25% and giving teams real-time visibility into system performance. By automating over 2,000 ETL jobs using **Autosys** and Oracle Data Integrator, I eliminated bottlenecks and ensured smoother data processing.
-Working with **PySpark** and **Cassandra**, I harnessed big data to generate actionable insights for asset management, empowering decision-makers with real-time analytics. Additionally, I optimized database performance by creating efficient stored procedures in **SSMS**, enhancing query speed and data accuracy. Together, these efforts drove efficiency, reliability, and impactful decision-making across critical processes.  
+## The Art of Automation: A Data Opera (BNP Paribas)  
+Imagine a symphony of operational workflows—each instrument out of tune. That’s where I stepped in at BNP Paribas. With **Kibana** and **Grafana**, I gave teams real-time visibility into system performance, cutting troubleshooting time by 25%. I automated over 2,000 ETL jobs using **Autosys** and Oracle Data Integrator, eliminating bottlenecks like a virtuoso conductor. Using **PySpark** and **Cassandra**, I crafted big data insights that hit the right notes for asset management. For the grand finale, I wrote efficient stored procedures in **SSMS**, optimizing database performance and ensuring decision-makers always had the perfect data crescendo.
 
 ---
 
