@@ -1,87 +1,91 @@
 # Hi there 👋
 
-I'm Denzil D'Souza, a passionate software developer and data enthusiast.
+I'm **Denzil D'Souza**, a passionate **Data Analyst** and **Data Engineer** with a knack for transforming raw data into actionable insights. I thrive on uncovering patterns, solving problems, and driving impactful decision-making through data.
 
-With a background in finance and supply chain logistics, I bring proven expertise in leading transformative initiatives and applying data-driven methodologies for operational efficiency. 
-
+---
 
 ### **Guiding Values 🌟**
-**Innovation** 🚀 **Collaboration** 🤝 **Resilience** 🌱 **Integrity** 🌐 **Continuous Learning** 📚
+- **Innovation** 🚀  
+- **Collaboration** 🤝  
+- **Resilience** 🌱  
+- **Integrity** 🌐  
+- **Continuous Learning** 📚  
+
+---
 
 ### 🔭 **Currently Working On:**
-- Collaborating on my capstone project with Amazon to build a Digital Twin for handling AutoCAD files.
-- Exploring optimization problems and predictive analytics in the realms of data science and machine learning.
-- Building my skills in Tableau by taking classes concentrating on visualization design.
--   <div style="display: flex; align-items: center;">
-    <div>
-        <p>Here are some technologies I work with:</p>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-        <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" style="width: 80px; height: 30px; margin: 0 5px;" />
-    </div>
-</div>
+- **Data Analysis at the University of Washington**: 
+  - Conducting data wrangling and statistical analysis on survey datasets to support neurodivergence inclusivity research.  
+  - Developing interactive Tableau dashboards to present research findings.  
+  - Using linear regression in Python for predictive analytics, analyzing recruitment process inclusivity trends.  
 
+---
 
 ### 🌱 **Currently Learning:**
-- Advancements in cloud computing, particularly AWS services.
-- Best practices in software architecture and design.
-- Learning Data Engineering software and practices on AWS.
-- Software principles to optimize file management and enhance efficiency.
+- Advanced **AWS services** for cloud computing.  
+- Best practices in **data engineering** and pipeline automation.  
+- **Machine learning techniques** for advanced analytics.  
+
+---
 
 ### 👯 **Looking to Collaborate On:**
-- Open source projects that involve data processing, analysis, and visualization.
-- Software development initiatives with a focus on innovation and impact.
+- Open-source projects involving **data analysis**, **visualization**, and **pipeline automation**.  
+- Initiatives focused on leveraging **data engineering** for impactful decision-making.  
 
-💬 **Ask Me About:**
+---
 
 ### 👨‍💻 **Experience:**
 
-#### My experience working as a Software Engineer at Matson
+#### **Data Analyst | University of Washington**  
+- Conducted statistical analysis, such as t-tests and chi-squared tests, on survey data to support research on inclusivity.  
+- Built interactive Tableau dashboards for impactful research presentations.  
+- Applied predictive analytics using Python to analyze recruitment processes.  
 
-- **What I did:** As a Software Engineer at Matson, I dived into the world of requirement analysis for 20 use cases. It was all about making sure they seamlessly integrated into our business application. Ever migrated 40 business reports from SSRS to Jasper Software? Well, I did, and it was part of a pretty cool transformation project.
-  
-- **Testing, Testing:** Of course, after developing and migrating those reports, there was a fair bit of testing to do. Unit testing and UAT testing for all 40 reports to be exact. Making sure everything stayed ship-shape!
+#### **Data Engineer | Amazon (Capstone Project)**  
+- Designed and developed a data warehouse using **AWS RDS** and **Kimball’s methodology**.  
+- Automated ETL pipelines with **AWS Glue**, processing data from **S3** for OLAP databases.  
+- Enhanced operational efficiency by automating file archiving and management with **AWS Lambda**.  
 
-#### My journey as a Production Support Analyst at BNP Paribas
+#### **Data Analyst | Matson**  
+- Migrated 40+ business reports to iReport, reducing costs by 20%.  
+- Developed Tableau dashboards for financial metrics, improving operational efficiency by 15%.  
+- Leveraged **PySpark** for large-scale data transformation.  
 
-- **Cutting Manual Effort:** Ever wonder how to save 50 hours a month? Well, I developed and set up Monitoring and Alerting systems in Kibana and Graphana for a .NET application. It was a game-changer, reducing manual efforts and providing slick visual dashboards for the business.
-
-- **Leading Continuity:** Also, led the charge in Business Continuity activities for 3 applications. From planning to execution, ensuring smooth DR and Live play. Because when it comes to backup servers, reliability is the name of the game.
-
-- **Querying and Automating:** When it came to querying large datasets in MYSQL, Sybase, and Cassandra, I was the go-to person. Automated Intraday file integration tasks using Selenium and Autosys? Yeah, that was to save a solid 30 hours a month!
-
-#### My stint as a Full Stack Java Developer at TechSkills IT Consultants
-
-- **Springing into Action:** Developed complex APIs via Spring MVC and Spring Boot to query different databases and generate reports. If you're into MYSQL databases, I've got some stories for you.
-
-- **Queried like a Pro:** Queried MYSQL databases like a pro for client reports and created procedures for BAU activities. Because sometimes, you've got to dive into the data!
+---
 
 ### 🚀 **Projects:**
 
-#### My exploration in Covid Vaccination Analysis using Tableau
+#### **Strategic Retail Performance Analysis**  
+- Designed a Snowflake data warehouse to process CSV data into a dimensional model.  
+- Analyzed store sales trends and developed Tableau dashboards for improved forecasting and decision-making.  
 
-- **Dashboard Dive:** Created Tableau dashboards to dive deep into historical trends in COVID vaccination. It was all about using advanced data visualization techniques to examine patterns based on GDP and population density.
+#### **Predictive Maintenance for Manufacturing Equipment**  
+- Built a Random Forest model using Python to predict equipment failure trends, enhancing scheduling and reducing downtime.  
+- Integrated results into Tableau dashboards for real-time monitoring.  
 
-#### The Adventure of the Automatic Timetable Generator using Genetic Algorithm
+#### **COVID-19 Vaccination Analysis with Tableau**  
+- Created dashboards analyzing historical trends in vaccination patterns based on GDP and population density.  
 
-- **Optimizing Timetables:** Built a cool open-source web app using React JS and Flask. How? Well, Genetic Algorithm was the secret sauce. It generated timetables considering hard and soft constraints, achieving an impressive 97% fitness rate.
+---
 
-Feel free to ask me anything about sailing through software development or untangling data webs!
+### **Technologies I Work With:**
+<div>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" />
+    <img alt="R" src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-green?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/-Azure-orange?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white" />
+</div>
 
+---
 
-📫 **How to Reach Me:**
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/denzil-m-dsouza/). 
-- Email me at denzildsouza555@gmail.com.
+### 📫 **How to Reach Me:**
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/denzil-m-dsouza/).  
+- Email me at **denzildsouza555@gmail.com**.  
 
-😄 **Pronouns:**
-- He/Him
+---
 
-⚡ **Fun Fact:**
-
-Feel free to explore my repositories and let's connect to discuss exciting opportunities and collaborations!
-
-<!-- Add badges or links to your social profiles if you want -->
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** I'm a weekend cyclist in Seattle! 🚴  
