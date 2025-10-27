@@ -15,14 +15,26 @@ I'm **Denzil D'Souza**, a passionate **Data Analyst** with a knack for transform
 
 ### 🔭 **Currently Working On:**  
 
-At the **University of Washington**, I work as a **Data Analyst**, diving into research data to explore how inclusivity practices can be improved for neurodivergent individuals:  
+At **Capital One**, I work as a **Senior Data Analyst**, partnering with product teams to turn data into revenue-driving strategies:
+
+- **Designing experiments that matter:** Collaborating with product teams to design A/B experiments using statistical methods like t-tests and chi-square analysis. Validating approval uplifts and measuring their impact on underwriting strategy, ensuring every decision is backed by rigorous data analysis.
+- **Building automated intelligence:** Developing automated BI dashboards in Tableau and QuickSight with Databricks SQL, reducing manual reporting by 5 hours weekly. Providing real-time KPI monitoring for capacity planning and partner performance tracking that puts insights at stakeholders' fingertips.
+- **Creating self-serve analytics:** Designing data models in Snowflake using dimensional modeling with star schema architecture. Building 15+ fact and dimension tables that improve query performance by 40% and enable teams to answer their own questions without waiting on data requests.
+
+What I love most about this role is seeing data transform from numbers on a screen into strategies that shape business decisions.
+
+---
+
+### 🔭 **Previously Working On:**  
+
+At the **University of Washington**, I worked as a **Data Analyst**, diving into research data to explore how inclusivity practices can be improved for neurodivergent individuals:  
 
 - **Wrangling messy datasets**: Cleaning survey responses and normalizing data using Python, ensuring accuracy for downstream analyses.  
 - **Creating stories with dashboards**: Developing interactive **Tableau dashboards** that showcase patterns in recruitment practices, helping stakeholders make informed decisions.  
 - **Applying statistical rigor**: Using methods like t-tests and chi-squared tests to validate hypotheses and uncover significant differences between populations.  
 - **Predicting trends**: Building **regression models** to identify factors that enhance inclusivity in the workplace.  
 
-What I love most about this role is how data can shine a light on areas for improvement and help create a more inclusive world.  
+What I loved most about this role is how data can shine a light on areas for improvement and help create a more inclusive world.  
 
 ---
 
