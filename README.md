@@ -54,6 +54,9 @@ What I loved most about this role is how data can shine a light on areas for imp
 
 ### 🚀 Tales from My Career Adventures
 
+#### The Strategy Architect (Capital One)
+When product teams need to know if their approval strategy changes actually work, that's where data science meets business impact. I design **A/B experiments** using **statistical methods like t-tests and chi-square analysis**, turning hunches into validated insights that shape underwriting decisions. I built **automated BI dashboards in Tableau and QuickSight** powered by **Databricks SQL**, freeing up finance teams from manual reporting while delivering real-time KPI monitoring. And when external partners needed analytics, I designed a **Snowflake star schema** with fact and dimension tables that improved query performance and enabled self-serve reporting.
+
 #### Turning Data into a Neurodivergent-Friendly Ally (University of Washington)
 Picture this: I’m staring at rows of messy survey data, armed with nothing but Python and determination. My mission? Help a research team uncover why neurodivergent candidates often feel like they’re auditioning for a role in *Mission Impossible* during interviews. After hours of wrangling unruly data and coaxing it into shape, I whipped up **Tableau dashboards** that told a clear story. One surprise plot twist? There was a massive gap in perceived support during interviews! Armed with these insights, the team rolled out actionable recommendations that didn’t involve spy gadgets.  
 
